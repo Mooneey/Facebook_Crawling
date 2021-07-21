@@ -211,11 +211,12 @@ data2 = [
 ]
 
 # 키워드 횟수를 출력하고 반환하는 함수
-def get_dataKeyword(keyword1, keyword2): 
-    keyword1 = input("키워드를 입력해주세요: ")
-    print(keyword1)
-    keyword2 = input("키워드를 입력해주세요: ")
-    print(keyword2)
+def get_dataKeyword(tempData, keyword1, keyword2): 
+
+    # keyword1 = input("키워드를 입력해주세요: ")
+    # print(keyword1)
+    # keyword2 = input("키워드를 입력해주세요: ")
+    # print(keyword2)
     
     coronaCount = 0
     heatCount = 0
@@ -246,11 +247,8 @@ def stikgrap(keyword1, keyword2):
 
     topics = ['코로나', '열돔']
 
-    value_a = get_dataKeyword(keyword1, keyword2)
-    value_b = [11]
-
-    #value_a = [73, 78]
-    #value_b = [73, 78]
+    value_a = get_dataKeyword(data, keyword1, keyword2)
+    value_b = get_dataKeyword(data2, keyword1, keyword2)
 
     def create_x(t, w, n, d):
         return [t*x + w*n for x in range(d)]
@@ -268,12 +266,8 @@ def stikgrap(keyword1, keyword2):
 
     plt.show()
 
-tempData = data
 
-datakeyword1 = 0    
-datakeyword2 = 0 
+datakeyword1 = '코로나'    
+datakeyword2 = '열돔'
 
-stikgrap(datakeyword1,datakeyword1)      
-
-tempData = data2
-
+stikgrap(datakeyword1, datakeyword2)
