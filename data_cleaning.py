@@ -9,7 +9,7 @@ import json
 
 # 가상데이터 json파일을 불러와 날짜 순으로 정렬
 def read_json() :
-    with open(r'C:\Users\user\Desktop\graph\testdata.json', 'r', encoding='utf-8') as f:
+    with open(r'C:\lab\FacebookCrawling\graph\testdata2.json', 'r', encoding='utf-8') as f:
         jsondata = json.load(f)
 
     # 날짜 순으로 정렬
