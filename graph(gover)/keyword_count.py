@@ -15,7 +15,7 @@ def CountKeyword(keyword, sDate, eDate) :
     count4 = 0
 
     resultData = DateCheck(sDate, eDate)
-    # 키워드 카운트
+
     for i in resultData:
 
         if ((keyword[0] in i['주소'])) :
