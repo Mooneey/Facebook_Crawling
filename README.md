@@ -11,7 +11,7 @@
   <img 
      src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<a href="https://https://www.data.go.kr/">
+<a href="https://www.data.go.kr/">
   <img 
      src="https://img.shields.io/badge/PublicData-A42E2B?style=flat-square&logo=Publons&logoColor=white"/></a>
      
