@@ -8,15 +8,15 @@
 
 Facebook News Page Crawling (with Graph API)
 
-사용법 H1
+사용법 
 =============
-파일 종류 H2
+##파일 종류 
 -------------
-data_cleaning
-dict_to_tuple
-draw_graph
-keyword_count
-main
+data_cleaning\n
+dict_to_tuple\n
+draw_graph\n
+keyword_count\n
+main\n
 
 이 프로그램은 이렇게 쓰는거다
 
