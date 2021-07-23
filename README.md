@@ -14,11 +14,20 @@ Facebook News Page Crawling (with Graph API)
 ## 파일 종류 
 -------------
 #### data_cleaning
-#### dict_to_tuple
-#### draw_graph
-#### keyword_count
-#### main
+공공데이터를 받아와 날짜 체크 후 반환   
 
-이 프로그램은 이렇게 쓰는거다
+#### dict_to_tuple
+딕셔너리 형을 튜플로 바꾸는 모듈   
+
+#### draw_graph
+그래프 출력하는 모듈   
+
+#### keyword_count
+키워드 횟수를 출력하고 반환하는 모듈   
+
+#### main
+데이터 생성, 변환, 그래프 출력부분을 합하여 메인함수로 결과 도출   
+
+이 프로그램은 이렇게 쓰는거다   
 
 
