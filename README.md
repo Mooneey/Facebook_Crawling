@@ -3,6 +3,7 @@
 
 <div align=center><h1>:+1: We are Team 5 :heart:</h1></div>
 
+<div align="center">
 <a href="https://infosec.adtcaps.co.kr/">
   <img
     src="https://img.shields.io/badge/Infosec-Team5-red?style=flat-square&logo=infosec&logoColor=white&link=https://infosec.adtcaps.co.kr/"></a>
@@ -14,9 +15,11 @@
 <a href="https://www.data.go.kr/">
   <img 
      src="https://img.shields.io/badge/PublicData-A42E2B?style=flat-square&logo=Publons&logoColor=white"/></a>
-     
+</div>     
 
+<div align="center">
 Facebook News Page Crawling (with Graph API)
+</div> 
 
 사용법 
 =============
