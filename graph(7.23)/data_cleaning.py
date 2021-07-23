@@ -1,5 +1,5 @@
 # 모 듈 명 : data_cleaning.py
-# 작 성 자 : 문재식, 구자원, 안준표 
+# 작 성 자 : 문재식
 # 작 성 일 : 2021.07.21
 # 수 정 일 : 2021.07.23
 # 정    의 : 공공데이터를 받아와 날짜 체크 후 반환
@@ -10,7 +10,7 @@ from dateutil.relativedelta import relativedelta
 
 # 공공데이터 json파일을 불러와 최신날짜 순으로 정렬
 def ReadJson() :
-    with open(r'C:\Users\user\Desktop\graph(7.23)\뉴스_GoVData_데이터.json', 'r', encoding='utf-8') as f:
+    with open(r'C:\lab\FacebookCrawling\뉴스_GoVData_데이터.json', 'r', encoding='utf-8') as f:
         jsondata = json.load(f)
     
     sortData = sorted(jsondata['data'], key=lambda x: x['일자'], reverse=True)

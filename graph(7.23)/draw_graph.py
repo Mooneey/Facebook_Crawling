@@ -1,7 +1,7 @@
 # 모 듈 명 : draw_graph
 # 작 성 자 : 조용훈, 구자원
 # 작 성 일 : 2021.07.21
-# 수 정 일 : 2021.07.22
+# 수 정 일 : 2021.07.23
 # 정    의 : 그래프 출력
 
 import matplotlib.pyplot as plt
@@ -9,7 +9,7 @@ from matplotlib import font_manager, rc
 import numpy as np
 from data_cleaning import GetNow, GetPastDay
 
-
+# 막대 그래프 출력
 def StickGraph(resultCount, title) :
 
     plt.xlabel('키워드')
@@ -21,13 +21,13 @@ def StickGraph(resultCount, title) :
     cities = list(resultCount.keys())
     values = list(resultCount.values())
     
-    #plt.axis([-1, 3, 0, 20]) 이 부분 뺐는데 오히려 그래프가 잘나옵니다.
     plt.title(title)
 
     plt.bar(x, values)
     plt.xticks(x, cities)
     plt.show()
 
+# 파이 그래프 출력
 def PieGraph(resultCount, title) :
 
     ratio = list(resultCount.values())
@@ -41,7 +41,7 @@ def PieGraph(resultCount, title) :
 
     plt.show()
 
-
+# 막대 및 파이 그래프 출력
 def DrawGraph(resultCount, stdDate) :
     font_path = "C:/Windows/Fonts/NGULIM.TTF"
     font = font_manager.FontProperties(fname=font_path).get_name()
