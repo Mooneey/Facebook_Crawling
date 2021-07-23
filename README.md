@@ -7,6 +7,10 @@
   <img
     src="https://img.shields.io/badge/Infosec-Team5-red?style=flat-square&logo=infosec&logoColor=white&link=https://infosec.adtcaps.co.kr/"></a>
 
+<a href="https://www.python.org/@colorful-stars">
+  <img 
+     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 Facebook News Page Crawling (with Graph API)
 
 사용법 
