@@ -6,9 +6,6 @@
 <a href="https://infosec.adtcaps.co.kr/">
   <img
     src="https://img.shields.io/badge/Infosec-Team5-red?style=flat-square&logo=infosec&logoColor=white&link=https://infosec.adtcaps.co.kr/"></a>
-<a href="https://www.python.org/">
-  <img
-     src="https://img.shields.io/badge/Python-[#3776AB]?style=flat-square&logo=[Python]&logoColor=white"/></a>
 
 Facebook News Page Crawling (with Graph API)
 
@@ -47,6 +44,7 @@ Facebook News Page Crawling (with Graph API)
 :four:검출한 키워드의 빈도 수를 그래프로 그리기      
    
 ![5](https://user-images.githubusercontent.com/80608601/126747880-0534fc5d-9c92-4833-b842-04fccbf043ef.PNG)
+<img src="\Users\user\Desktop\이미지\5.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 ![6](https://user-images.githubusercontent.com/80608601/126747881-829c5af5-46c4-495e-bf34-5939e0086f38.PNG)
 ![7](https://user-images.githubusercontent.com/80608601/126747882-8f0fd64a-f04b-4af8-86da-7608fff3db46.PNG)
 ![8](https://user-images.githubusercontent.com/80608601/126747884-12a67423-aa65-4404-abe7-a7a936b0af1e.PNG)   
