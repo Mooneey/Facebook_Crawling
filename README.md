@@ -13,11 +13,11 @@ Facebook News Page Crawling (with Graph API)
 =============
 ## 파일 종류 
 -------------
-### data_cleaning
-### dict_to_tuple
-### draw_graph
-### keyword_count
-### main
+#### data_cleaning
+#### dict_to_tuple
+#### draw_graph
+#### keyword_count
+#### main
 
 이 프로그램은 이렇게 쓰는거다
 
