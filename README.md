@@ -32,5 +32,4 @@ Facebook News Page Crawling (with Graph API)
 
 ## 실행 결과 
 -------------
-<img src="C:\Users\user\Desktop\이미지\1.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-![Alt text](C:\Users\user\Desktop\이미지\1.png)
+![1](https://user-images.githubusercontent.com/80608601/126746500-852bb412-3877-4004-a8eb-3dfca72b2664.PNG)
