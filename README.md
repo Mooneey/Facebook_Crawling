@@ -1,6 +1,7 @@
 # [Infosec Academy] Module Project 1
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=InfosecAcademy&fontSize=90)
 
+<div align=center><h1>:stick_out_tongue_winking_eye: We are Team 5</h1></div>
 
 <a href="https://infosec.adtcaps.co.kr/">
   <img
