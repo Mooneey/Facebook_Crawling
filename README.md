@@ -30,4 +30,6 @@ Facebook News Page Crawling (with Graph API)
 
 이 프로그램은 이렇게 쓰는거다   
 
-
+## 실행 결과 
+-------------
+<img src="C:\Users\user\Desktop\이미지\1.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
