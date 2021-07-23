@@ -4,6 +4,9 @@
 
 Facebook News Page Crawling (with Graph API)
 
+사용법
+=============
+
 이 프로그램은 이렇게 쓰는거다
 
 
