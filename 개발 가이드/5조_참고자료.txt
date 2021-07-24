@@ -1,0 +1,27 @@
+https://victorydntmd.tistory.com/244 : JTBC 페이스북 크롤링 예제
+
+https://ericnjennifer.github.io/python_crawling/2018/01/05/PythonCrawling_Chapt6.html : 페이스북 크롤링 예제
+
+http://dbcafe.co.kr/wiki/index.php/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%AA%85%EB%AA%85%EA%B7%9C%EC%B9%99 : 파이썬 명명 규칙
+
+https://news.samsungdisplay.com/22907/ : 크롤링의 주제 및 배경 의의
+
+https://gmlwjd9405.github.io/2018/07/02/agile-pair-programming.html : 페어프로그래밍에 대해서
+
+https://developers.facebook.com/docs/app-review/submission-guide : 페이스북 앱 검수 요청 절차
+
+https://teserre.tistory.com/2
+https://teserre.tistory.com/6 : 페이스북 그래프 API 로그인 및 탐색기 사용하기
+
+https://coding-factory.tistory.com/245 : 깃허브 설치하기
+
+https://emflant.tistory.com/123 : 깃허브 파일 올리기 
+
+https://wikidocs.net/92071 : 맷플롯립 참고자료
+
+https://ikkison.tistory.com/82, https://devuna.tistory.com/26 : 리팩토링
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=wooin0707&logNo=220128717870 : 형상관리
+
+https://gist.github.com/ihoneymon/652be052a0727ad59601 : github 마크다운 사용법
+
+https://tttsss77.tistory.com/149 : typora 마크다운 편집기
