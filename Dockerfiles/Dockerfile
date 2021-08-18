@@ -1,1 +1,0 @@
-FROM web-base
