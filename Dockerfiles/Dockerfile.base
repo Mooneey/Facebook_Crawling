@@ -1,0 +1,15 @@
+# 베이스 이미지 설정
+FROM ubuntu:latest
+
+# Nginx 설치
+RUN apt update
+RUN apt install -y nginx
+
+# 포트지정
+EXPOSE 80
+
+# 웹 콘텐츠 배치
+ONBUILD ADD website.tar /var/www/html/
+
+# Nginx 실행
+CMD ["nginx", "-g", "daemon off;"]
